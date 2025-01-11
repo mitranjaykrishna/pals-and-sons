@@ -42,7 +42,7 @@ export default function HomeSection3() {
           </div>
         ))}
       </div>
-      <div className="absolute bottom-[-100%] left-[-.8%] w-[110%] h-[405px] content-[''] bg-[#f8f8f8]  transform rotate-[5deg] transition-transform duration-500"></div>
+      <div className="absolute bottom-[-100%] left-[-10%] w-[110%] h-[405px] content-[''] bg-[#f8f8f8]  transform rotate-[5deg] transition-transform duration-500"></div>
     </div>
   );
 }
