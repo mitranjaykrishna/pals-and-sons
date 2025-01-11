@@ -5,7 +5,7 @@ export default function HeroSection() {
     <div className="relative h-screen mt-16 bg-hero-background bg-fixed bg-center bg-cover bg-no-repeat">
       <div className="flex flex-col justify-center items-center gap-8 pt-[188px]">
         <p className="flex flex-col items-center justify-center gap-6 text-[#222222]">
-          <span className="text-6xl font-bold ">Pals And Sons</span>
+          <span className="text-6xl font-bold ">Pal's And Sons</span>
           <span className="text-5xl font-extralight">PVT. Limited</span>
         </p>
         <hr className="bg-black h-0.5 w-[50px]" />
