@@ -4,8 +4,8 @@ import Form from "../Form";
 
 export default function ContactUs() {
   return (
-    <div className="relative  mt-32 px-[209px] pb-20 bg-[#f8f8f8]">
-      <div className="grid grid-cols-2 items-center">
+    <div className="relative  mt-32 px-5 md:px-[209px] pb-20 bg-[#f8f8f8]">
+      <div className="grid md:grid-cols-2 gap-8 md:gap-0 items-center">
         <div
           className=" flex flex-col justify-center md:justify-between items-center gap-8  bg-secondary-color md:pr-32 pt-14 rounded-3xl"
           id="contact-us"
