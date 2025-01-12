@@ -7,7 +7,7 @@ import ContactUs from "@/components/HomePage/ContactUs";
 export default function Home() {
   return (
     <div className={``}>
-      <main className={``}>
+      <main className={` overflow-x-hidden`}>
         <HeroSection />
         <HomeSection2 />
         <HomeSection3 />
